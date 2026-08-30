@@ -20,13 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/venkata chandrahasreddy vundela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="venkata chandrahasreddy vundela" height="30" width="40" /></a>
 <a href="https://twitter.com/chandrahasvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrahasvv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandrahas-reddy-vundela-venkata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrahas-reddy-vundela-venkata" height="30" width="40" /></a>
-<a href="https://instagram.com/i_amwaiting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_amwaiting" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/venkatachandrahasreddyvundela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venkatachandrahasreddyvundela" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vvchandrahasred1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vvchandrahasred1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/v v chandrahas reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="v v chandrahas reddy" height="30" width="40" /></a>
+<a href="https://instagram.com/vvchandrahasreddy_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_amwaiting" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@VenkataChandrahasReddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venkatachandrahasreddyvundela" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/chandrahasSWE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vvchandrahasred1" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Chandrahasreddy7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="v v chandrahas reddy" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vvchandrahasreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vvchandrahasreddy" height="30" width="40" /></a>
 </p>
 
